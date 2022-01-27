@@ -16,7 +16,7 @@ public class Lab2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Lab2, Second Push ");
+        System.out.println("Lab2,Hello world Push ");
     }
     
 }
